@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Mercateo",
   "marketplaceName": "Mercateo",
   "description": "Um Mercateo in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Mercateo nötig.",
@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Mercateo ist in plentymarkets 7 bereits integriert. Um Mercateo in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Mercateo nötig.",
-    "en": "Mercateo is already integrated into your plentymarkets 7 system.. A Mercateo seller account is mandatory for setting up Mercateo in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Mercateo wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Mercateo zu listen. Die Schnittstelle zu Mercateo ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Mercateo enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Mercateo. The interface to Mercateo is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
